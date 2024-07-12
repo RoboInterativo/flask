@@ -16,7 +16,7 @@
 
    install
    quickstart
-   tutorial
+   tutorial/index
 
 
 
